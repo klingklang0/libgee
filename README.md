@@ -1,0 +1,2 @@
+# libgee
+GObject collection library
